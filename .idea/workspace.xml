@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62df8aec-459f-4386-a570-a3b5adc90552" name="Changes" comment="added markdown file with resources">
+    <list default="true" id="62df8aec-459f-4386-a570-a3b5adc90552" name="Changes" comment="general touch up">
+      <change afterPath="$PROJECT_DIR$/particle_system/constellations_effect/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/particle_system/constellations_effect/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/particle_system/constellations_effect/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/particle_system/fundamental_particle_simulator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/particle_system/fundamental_particle_simulator/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/particle_system/fundamental_particle_simulator/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_resources/learning_resources.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_resources/learning_resources.md" afterDir="false" />
     </list>
@@ -17,8 +23,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -55,19 +62,21 @@
     "javascript.nodejs.core.library.configured.version": "18.1.0",
     "javascript.nodejs.core.library.typings.version": "17.0.36",
     "js.last.introduce.type": "CONST",
-    "last_opened_file_path": "D:/programming_vault/javascript_vault/linked_lists/linked_list_values/iterative_linked_list_values.js",
+    "last_opened_file_path": "D:/programming_vault/particle_system/particle_simulator/script.js",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "preferences.sourceCode.CSS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programming_vault\particle_system" />
       <recent name="D:\programming_vault\javascript_vault" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -79,7 +88,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="iterative_linked_list_values.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-js-file="$PROJECT_DIR$/javascript_vault/linked_lists/linked_list_values/iterative_linked_list_values.js" working-dir="$PROJECT_DIR$/javascript_vault/linked_lists/linked_list_values">
+    <configuration name="iterative_linked_list_values.js" type="NodeJSConfigurationType" singleton="false" temporary="true" path-to-js-file="$PROJECT_DIR$/particle_system/constellations_effect/script.js" working-dir="$PROJECT_DIR$/particle_system">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -103,7 +112,8 @@
       <workItem from="1653819717614" duration="73000" />
       <workItem from="1653819799397" duration="19000" />
       <workItem from="1653819826550" duration="29000" />
-      <workItem from="1653819864174" duration="2355000" />
+      <workItem from="1653819864174" duration="7676000" />
+      <workItem from="1653834167534" duration="8018000" />
     </task>
     <task id="LOCAL-00001" summary="added markdown file with resources">
       <created>1653824937160</created>
@@ -112,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653824937160</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added a resource">
+      <created>1653825249032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653825249032</updated>
+    </task>
+    <task id="LOCAL-00003" summary="general touch up">
+      <created>1653825285759</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653825285759</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +155,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added markdown file with resources" />
-    <option name="LAST_COMMIT_MESSAGE" value="added markdown file with resources" />
+    <MESSAGE value="added a resource" />
+    <MESSAGE value="general touch up" />
+    <option name="LAST_COMMIT_MESSAGE" value="general touch up" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
