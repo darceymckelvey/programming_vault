@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62df8aec-459f-4386-a570-a3b5adc90552" name="Changes" comment="general touch up">
-      <change afterPath="$PROJECT_DIR$/particle_system/constellations_effect/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/particle_system/constellations_effect/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/particle_system/constellations_effect/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/particle_system/fundamental_particle_simulator/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/particle_system/fundamental_particle_simulator/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/particle_system/fundamental_particle_simulator/style.css" afterDir="false" />
+    <list default="true" id="62df8aec-459f-4386-a570-a3b5adc90552" name="Changes" comment="particle systems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_resources/learning_resources.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_resources/learning_resources.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/particle_system/constellations_effect/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/particle_system/constellations_effect/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +107,7 @@
       <workItem from="1653819799397" duration="19000" />
       <workItem from="1653819826550" duration="29000" />
       <workItem from="1653819864174" duration="7676000" />
-      <workItem from="1653834167534" duration="8018000" />
+      <workItem from="1653834167534" duration="8482000" />
     </task>
     <task id="LOCAL-00001" summary="added markdown file with resources">
       <created>1653824937160</created>
@@ -136,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653825285759</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="particle systems">
+      <created>1653842286686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653842286686</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +158,8 @@
     <MESSAGE value="added markdown file with resources" />
     <MESSAGE value="added a resource" />
     <MESSAGE value="general touch up" />
-    <option name="LAST_COMMIT_MESSAGE" value="general touch up" />
+    <MESSAGE value="particle systems" />
+    <option name="LAST_COMMIT_MESSAGE" value="particle systems" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
