@@ -5,7 +5,8 @@
 
 
 ## Javascript Useful Material For Further Understanding
-[Linked Lists for Technical Interviews](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
+- [Linked Lists for Technical Interviews](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
+- [HTML5 Canvas CRASH COURSE for Beginners](https://www.youtube.com/watch?v=Yvz_axxWG4Y&list=PLYElE_rzEw_v8TXJ_ITSSBP_ypUKfQ7K-&index=1)
 
 ## Programming Books Currently Reading 
 - [ ] <mark>Eloquent Javascript</mark> by Marijin Haverbeke

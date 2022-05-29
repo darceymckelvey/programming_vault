@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62df8aec-459f-4386-a570-a3b5adc90552" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_resources/learning_resources.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="62df8aec-459f-4386-a570-a3b5adc90552" name="Changes" comment="added markdown file with resources">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_resources/learning_resources.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_resources/learning_resources.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -98,8 +103,16 @@
       <workItem from="1653819717614" duration="73000" />
       <workItem from="1653819799397" duration="19000" />
       <workItem from="1653819826550" duration="29000" />
-      <workItem from="1653819864174" duration="2059000" />
+      <workItem from="1653819864174" duration="2355000" />
     </task>
+    <task id="LOCAL-00001" summary="added markdown file with resources">
+      <created>1653824937160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653824937160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +128,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added markdown file with resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="added markdown file with resources" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
