@@ -1,7 +1,7 @@
 # Learning Resources
 
 ## Insightful Talks
-[The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
+- [The Art of Code - Dylan Beattie](https://youtu.be/6avJHaC3C2U)
 
 
 ## Javascript Useful Material For Further Understanding
