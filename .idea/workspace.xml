@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62df8aec-459f-4386-a570-a3b5adc90552" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/javascript_vault/eloquent_javascript/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/javascript_vault/eloquent_javascript/eloquent_javascript_exercises/chapter_4/exercise_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript_vault/eloquent_javascript/eloquent_javascript_exercises/chapter_4/exercise_2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,7 @@
       <updated>1653782512487</updated>
       <workItem from="1653782514254" duration="4357000" />
       <workItem from="1653787360650" duration="11187000" />
-      <workItem from="1653798651852" duration="3440000" />
+      <workItem from="1653798651852" duration="3630000" />
     </task>
     <servers />
   </component>
